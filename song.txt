@@ -8,6 +8,8 @@ on this their chosen battle field
 <<<<<<< HEAD
 >>>>>>> 1ee1151f82940f883788c199dce109f04603dbbf
 =======
+sword and spear
+wall of shields
 
 
 
