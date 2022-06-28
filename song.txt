@@ -2,6 +2,7 @@ sword and spear
 wall of shields
 
 standing strong
+<<<<<<< HEAD
 on this their chosen battle field++++
 
 
@@ -9,6 +10,10 @@ on this their chosen battle field++++
 2 couplet
 3 couplet
 +
+
+on this their chosen battle field
+
+3 couplet+
 
 
 
